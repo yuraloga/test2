@@ -14,8 +14,8 @@ import com.softserve.edu.task562.Task562;
  * Class to launch tasks.
  * 
  * @version 0.1
- * @author  Logazyak Yuriy
- *
+ * @author  yuraloga
+ * 
  */
 public class Main {
 
@@ -115,8 +115,12 @@ public class Main {
 	 */
 	private static void printValues(List<? extends Number> values) {
 		if (values.size() == 0) {
-			System.out.println("\nThere is no any value,"
+			System.out.println("#################### ////// "
+							   + "####################");
+			System.out.println("There is no any value,"
 							   + " that satisfy conditions.");
+			System.out.println("#################### ////// "
+							   + "####################");
 		} else {
 			System.out.println("\n############### Result ###############");
 			System.out.println("Values: ");

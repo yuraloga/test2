@@ -8,7 +8,7 @@ import java.util.List;
  * (x < n) && (square of the sum of digits) == m
  * 
  * @version 0.1
- * @author 	Logazyak Yuriy
+ * @author  yuraloga
  */
 public class Task329 {
 	

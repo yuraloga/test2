@@ -8,7 +8,7 @@ import java.util.List;
  * (n mod q^2 == 0) && (n mod q^3 != 0)
  * 
  * @version 0.1
- * @author  Logazyak Yuriy
+ * @author  yuraloga
  */
 public class Task225 {
 	

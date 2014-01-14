@@ -10,7 +10,7 @@ import java.util.List;
  * Example: 153 = 1^3 + 5^3 + 3^3.
  *  
  * @version 0.1
- * @author  Logazyak Yuriy
+ * @author  yuraloga
  */
 public class Task562 {
 	
