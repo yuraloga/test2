@@ -115,12 +115,8 @@ public class Main {
 	 */
 	private static void printValues(List<? extends Number> values) {
 		if (values.size() == 0) {
-			System.out.println("#################### ////// "
-							   + "####################");
 			System.out.println("There is no any value,"
 							   + " that satisfy conditions.");
-			System.out.println("#################### ////// "
-							   + "####################");
 		} else {
 			System.out.println("\n############### Result ###############");
 			System.out.println("Values: ");
